@@ -66,36 +66,3 @@
   </a>
 </div>
 
-<br>
-
-<h3 align="center">🎓 Research Interests 🎓</h3>
-<div align="center">
-  <ul>
-    <li>Continual & Few-shot Learning</li>
-    <li>Disentangled dynamic prototyping</li>
-    <li>Memory replay</li>
-    <li>LLM hallucination mitigating</li>
-  </ul>
-</div>
-
-<h3 align="center">📚 Publications 📚</h3>
-<div align="center">
-  <ol>
-    <li>International Journals</li>
-    <ul>
-      <li>S. H. Choi and S. J. Buu, "Disentangled Prototype-guided Dynamic Memory Replay for Continual Learning in Acoustic Signal Classification," 2024 (under review)</li>
-    </ul>
-    <li>International Conferences</li>
-    <ul>
-      <li>(To be updated)</li>
-    </ul>
-    <li>Domestic Journals</li>
-    <ul>
-      <li>최석훈, 백무근, 부석준, "차량 내 소음 분류를 위한 의사 라벨링 알고리즘을 사용한 확산 모델 기반 신호 증강," 2024.</li>
-    </ul>
-    <li>Domestic Conferences</li>
-    <ul>
-      <li>윤준호, 최석훈, 김혜정, 부석준, "피싱 URL 탐지를 위한 문자 및 HTML DOM 그래프 수준에서의 오토인코더 앙상블 기반 이상 탐지," 2024.</li>
-    </ul>
-  </ol>
-</div>
