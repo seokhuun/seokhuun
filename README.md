@@ -43,7 +43,7 @@
    - S. H. Choi and S. J. Buu, "Disentangled Prototype-guided Dynamic Memory Replay for Continual Learning in Acoustic Signal Classification," 2024 (under review)
 
 2. **International Conferences**
-   - (To be updated)
+   - S. H. Choi, Z. C. Kim and S. J. Buu, "Speech-guided Drone Control System based on Large Language Mode," 2024.
 
 3. **Domestic Journals**
    - 최석훈, 백무근, 부석준, "차량 내 소음 분류를 위한 의사 라벨링 알고리즘을 사용한 확산 모델 기반 신호 증강", 2024.
