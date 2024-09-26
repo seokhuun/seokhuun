@@ -37,16 +37,3 @@
 
 이러한 연구를 통해, 저는 실제 세계의 다양한 문제를 해결할 수 있는 견고하고 적응 가능한 뉴로-심볼릭 AI 시스템을 개발하고자 합니다. 각 연구 주제는 보다 효율적이고 신뢰성 높은 인공지능 솔루션을 제공하는 데 기여하고 있습니다.
 
-## Publication
-
-1. **International Journals**
-   - S. H. Choi and S. J. Buu, "Disentangled Prototype-guided Dynamic Memory Replay for Continual Learning in Acoustic Signal Classification," 2024 (under review)
-
-2. **International Conferences**
-   - S. H. Choi, Z. C. Kim and S. J. Buu, "Speech-guided Drone Control System based on Large Language Mode," 2024.
-
-3. **Domestic Journals**
-   - 최석훈, 백무근, 부석준, "차량 내 소음 분류를 위한 의사 라벨링 알고리즘을 사용한 확산 모델 기반 신호 증강", 2024.
-
-4. **Domestic Conferences**
-   - 윤준호, 최석훈, 김혜정, 부석준, "피싱 URL 탐지를 위한 문자 및 HTML DOM 그래프 수준에서의 오토인코더 앙상블 기반 이상 탐지," 2024.
